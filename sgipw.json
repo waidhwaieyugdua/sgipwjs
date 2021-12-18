@@ -374,5 +374,29 @@
 		"dimensions": "1400 x 3020 px",
 		"copyright": "Personal Use Only",
 		"downloadable": false
+	},
+		{
+		"name": "Wall48",
+		"url": "https://raw.githubusercontent.com/waidhwaieyugdua/silvergunnyipwalls/main/Wall48.png",
+		"thumbnail": "https://raw.githubusercontent.com/waidhwaieyugdua/silvergunnyipwallsT/main/Wall48T.jpg",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Wall49",
+		"url": "https://raw.githubusercontent.com/waidhwaieyugdua/silvergunnyipwalls/main/Wall49.png",
+		"thumbnail": "https://raw.githubusercontent.com/waidhwaieyugdua/silvergunnyipwallsT/main/Wall49T.jpg",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
+	},
+		{
+		"name": "Wall50",
+		"url": "https://raw.githubusercontent.com/waidhwaieyugdua/silvergunnyipwalls/main/Wall50.png",
+		"thumbnail": "https://raw.githubusercontent.com/waidhwaieyugdua/silvergunnyipwallsT/main/Wall50T.jpg",
+		"dimensions": "1400 x 3020 px",
+		"copyright": "Personal Use Only",
+		"downloadable": false
 	}
 ]
